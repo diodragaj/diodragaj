@@ -33,7 +33,7 @@ Developed a system praised by the patent office for automated hazard assessment.
 
 ## 🔭 Featured Projects
 
-### [Secure C Implementation & Memory Safety](LINK_TO_YOUR_REPO_HERE)
+### [Safe C Hashtable Analyzer](https://github.com/diodragaj/safe-c-hashtable-analyzer)
 *A deep dive into manual memory management and secure coding practices.*
 
 * **Objective:** Implementation of a custom Hash-Table with chaining to master internal data structures.

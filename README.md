@@ -9,13 +9,13 @@ I bridge the gap between electrical engineering fundamentals and modern software
 
 ## 🏆 Innovation & Patents
 
-**Algorithmische Risikoanalyse und Klassifizierung räumlicher Szenarien**
-*Automotive Safety System / Co-Inventor*
+**Algorithmic Risk Analysis & Classification**
+*Automotive Safety System / Co-Inventor (Patent Pending)*
 
-Developed a system praised by the patent office for automated hazard assessment.
-* **Core Concept:** Real-time decision support through algorithmic classification of environmental variables into safety levels.
-* **Application:** Automotive safety and spatial scenario analysis.
-* **Role:** Co-invented the algorithmic logic correlating environmental data for risk prediction.
+Developed a system for automated hazard assessment, officially recognized by the patent office for its innovative approach.
+* **Core Concept:** Real-time risk assessment through automated classification of environmental variables into safety levels.
+* **Application:** Automotive safety and risk classification.
+* **Role:** Conceptualized the system architecture and led the technical documentation and filing process.
 
 ---
 
@@ -59,4 +59,5 @@ Developed a system praised by the patent office for automated hazard assessment.
 
 ### 📫 Connect with me
 * 📧 **Email:** [dio.dragaj@outlook.com](mailto:dio.dragaj@outlook.com)
+* 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dio_Dragaj-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dio-dragaj-5a5843330)
 * 📍 **Location:** Vienna, Austria

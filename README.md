@@ -3,7 +3,7 @@
 > **Computer Science Student** @ FH Technikum Wien | **Co-Inventor** (Patent Pending)
 > Focused on **Systems Programming**, **Memory Safety**, and **Distributed Systems**.
 
-I bridge the gap between electrical engineering fundamentals and modern software architecture. My passion lies in low-level programming (C), understanding manual memory management, and building robust, safe systems for critical environments.
+I bridge the gap between electrical engineering fundamentals and modern software architecture. My passion lies in low-level programming (C/C++), understanding manual memory management, and building robust, safe systems for critical environments.
 
 ---
 
